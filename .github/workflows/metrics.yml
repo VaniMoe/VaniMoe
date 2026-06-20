@@ -1,0 +1,44 @@
+name: Metrics
+on:
+  # Aktualisiert die Metriken einmal täglich um Mitternacht
+  schedule: [{cron: "0 0 * * *"}]
+  # Ermöglicht manuelles Auslösen über das GitHub "Actions" Tab
+  workflow_dispatch:
+  # Aktualisiert die Metriken bei jedem Push in den main Branch
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate GitHub Metrics Infographic
+        uses: lowlighter/metrics@latest
+        with:
+          # Das Secret "METRICS_TOKEN" muss in den Repository-Einstellungen angelegt werden
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+          config_timezone: Europe/Berlin
+          
+          # Basis-Informationen (Header, Aktivitäten, Repositories)
+          base: header, activity, community, repositories
+          
+          # Isometric 3D Beiträge-Kalender (wie im Beispielbild)
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          
+          # Coding Habits (Grafik über deine aktivsten Uhrzeiten/Tage)
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          
+          # Detaillierte Sprachen-Übersicht
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%

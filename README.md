@@ -90,12 +90,7 @@ Hier ist eine Auswahl meiner bekanntesten Projekte auf GitHub:
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VaniMoe&show_icons=true&theme=tokyonight&count_private=true" alt="VaniMoe's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VaniMoe&layout=compact&theme=tokyonight" alt="VaniMoe's Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VaniMoe&theme=tokyonight" alt="GitHub Streak Stats" width="97%" />
+  <img src="github-metrics.svg" alt="VaniMoe's GitHub Metrics" width="100%" />
 </p>
 
 ---
