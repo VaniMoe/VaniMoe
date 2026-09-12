@@ -1,238 +1,229 @@
 <div align="center">
 
-  <!-- Header Banner / Apothecary Aesthetics -->
-  <a href="https://github.com/VaniMoe">
-    <img src="https://media.tenor.com/AvxIiH1z4cMAAAAM/maomao-kusuriya-no-hitorigoto.gif" width="100%" height="220" style="object-fit: cover; border-radius: 12px; border: 2px solid #52B788;" alt="VaniMoe Apothecary Banner" />
-  </a>
+<img src="https://media.tenor.com/AvxIiH1z4cMAAAAM/maomao-kusuriya-no-hitorigoto.gif" width="100%" height="220" style="object-fit:cover; border-radius:10px; border:2px solid #52B788;" alt="VaniMoe Banner" />
 
-  <br/><br/>
+# 🌿 VaniMoe
+### *Fullstack Developer • Game Modder • Code Alchemist*
 
-  # 🌿 薬屋のひとりごと ‧ 𝚅𝚊𝚗𝚒𝙼𝚘𝚎
-  ### *The Imperial Code Apothecary & Modding Laboratory*
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=19&duration=3200&pause=1200&color=52B788&center=true&vCenter=true&width=620&lines=Fullstack+Developer+%26+Reverse+Engineering+Enthusiast;Building+Modern+Overlays%2C+Tools+%26+Automations;Curiosity+is+the+Best+Antidote;Like+Maomao+Testing+Poisons%2C+I+Dissect+Code+🌿" alt="Typing SVG" />
+</p>
 
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=20&duration=3200&pause=1200&color=52B788&center=true&vCenter=true&width=650&lines=Court+Apothecary+%26+Code+Alchemist;Formulating+Scripts+%26+Dissecting+Poisons;Specialized+in+Web-Game+Modding+%26+Tools;Curiosity+Never+Killed+This+Cat+🐱" alt="Maomao Typing SVG" />
-  </p>
-
-  <p align="center">
-    <a href="https://github.com/VaniMoe">
-      <img src="https://komarev.com/ghpvc/?username=VaniMoe&color=52b788&style=for-the-badge&label=Apothecary+Ledger+Views" alt="Profile Views" />
-    </a>
-    <img src="https://img.shields.io/badge/Poison_Immunity-100%25-2D6A4F?style=for-the-badge&logo=medscape&logoColor=white" alt="Poison Immunity" />
-    <img src="https://img.shields.io/badge/Status-Brewing_New_Scripts-D4AF37?style=for-the-badge" alt="Status" />
-  </p>
+<p align="center">
+<a href="https://github.com/VaniMoe">
+<img src="https://komarev.com/ghpvc/?username=VaniMoe&color=52b788&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</a>
+<img src="https://img.shields.io/badge/FOCUS-Game_Modding_&_Tooling-2D6A4F?style=flat-square" alt="Focus" />
+<img src="https://img.shields.io/badge/STATUS-Active_Development-D4AF37?style=flat-square" alt="Status" />
+</p>
 
 </div>
 
 ---
 
-### 📜 Über die Hofapothekerin ‧ *About The Alchemist*
+### 🍵 About Me
 
 <table>
-  <tr>
-    <td width="65%" valign="top">
-      <p>
-        Willkommen in meiner kaiserlichen Arzneistube! Genau wie <b>Maomao</b> im hinteren Palast Heilpflanzen destilliert, Gifte vorkostet und rätselhafte Fälle löst, zerlege ich Webanwendungen, APIs und Spielstände in ihre kleinsten Bestandteile.
-      </p>
-      <p>
-        Mein Fokus liegt auf <b>Web-Game Scripting</b>, maßgeschneiderten <b>In-Game Overlays</b>, cleveren <b>Anti-Erkennungs-Bypässen</b> sowie modernen Desktop- & Bot-Werkzeugen mit sauberem Clean-Code-Fundament.
-      </p>
-      <ul>
-        <li>🧪 <b>Alchemistische Disziplinen:</b> Reverse-Engineering von Client-States, In-Game Overlay Injektionen & Automatisierungen</li>
-        <li>🍵 <b>Spezialgebiet:</b> Chrome Extensions (Manifest V3), Modern Python Desktop GUIs & Discord Bots mit AI Vision</li>
-        <li>🍃 <b>Apotheker-Philosophie:</b> <i>„Es gibt kein Gift, das nicht auch Medizin sein kann – man muss nur die richtige Dosis kennen.“</i></li>
-      </ul>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.tenor.com/GkZuv1CP7DoAAAAM/maomao-xiaomao.gif" width="220" style="border-radius: 12px; border: 2px solid #2D6A4F;" alt="Xiao Mao Cat" />
-      <br/>
-      <sub><i>🐾 Neugierig auf jeden ungelösten Bug...</i></sub>
-    </td>
-  </tr>
+<tr>
+<td width="65%" valign="top">
+
+Passionate developer specialized in **web application analysis**, **client-side reverse engineering**, and **game tooling**. Much like Maomao meticulously examining herbs and identifying poisons in the Imperial Palace, I thrive on dissecting complex systems down to their roots to engineer reliable, elegant solutions.
+
+- 🧪 **Primary Focus:** Browser-game scripting, in-game overlay injections, and account management tools.
+- ⚡ **Core Strengths:** Chrome Extension development (Manifest V3), desktop GUIs, and intelligent bots powered by AI vision.
+- 📜 **Philosophy:** Clean architecture, resilient anti-detection techniques, and lightweight, responsive interfaces.
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.tenor.com/GkZuv1CP7DoAAAAM/maomao-xiaomao.gif" width="180" style="border-radius:10px; border:2px solid #2D6A4F;" alt="Maomao Chibi" />
+<br/>
+<sub><i>Always curious about unsolved bugs.</i></sub>
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🧪 Kaiserliche Rezepturen & Haupt-Projekte ‧ *Featured Concoctions*
+### 🧪 Featured Repositories
 
-Hier sind die sorgfältig gebrauten Tinkturen und Werkzeuge aus meiner Rezeptsammlung:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<table width="100%">
-  <!-- ROW 1: Quick101 & Achivment-manager-Steam -->
-  <tr>
-    <!-- Quick101 -->
-    <td width="50%" valign="top">
-      <div align="left">
-        <a href="https://github.com/VaniMoe/Quick101">
-          <img src="https://img.shields.io/badge/👑_HAUPTPROJEKT-Imperial_Elixir-52B788?style=for-the-badge" alt="Hauptprojekt Badge" />
-        </a>
-        <h3><a href="https://github.com/VaniMoe/Quick101">⚡ Quick101</a></h3>
-        <p>
-          Ein blitzschneller, moderner Multi-Account Launcher für <b>Wizard101</b>. Ermöglicht das Organisieren und Starten einzelner Accounts oder kompletter Teams mit einem einzigen Klick.
-        </p>
-        <ul>
-          <li>🌐 <b>1-Click Server-Routing:</b> Nahtloser Wechsel zwischen US, EU und Test Realm</li>
-          <li>🎮 <b>Steam & Standalone:</b> Vollständige Erkennung beider Installationsarten</li>
-          <li>🪟 <b>Kompakt- & Vollmodus:</b> Elegante Oberfläche für Multiboxing & Team-Setups</li>
-        </ul>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/CustomTkinter-Dark_Theme-black?style=flat-square" />
-          <img src="https://img.shields.io/badge/Multi--Threading-Active-2D6A4F?style=flat-square" />
-        </p>
-      </div>
-    </td>
+<div align="left">
 
-    <!-- Achivment-manager-Steam -->
-    <td width="50%" valign="top">
-      <div align="left">
-        <a href="https://github.com/VaniMoe/Achivment-manager-Steam">
-          <img src="https://img.shields.io/badge/✨_HOBBY-Trophy_Tincture-D4AF37?style=for-the-badge" alt="Hobby Badge" />
-        </a>
-        <h3><a href="https://github.com/VaniMoe/Achivment-manager-Steam">🏆 VaniAchievements (Steam)</a></h3>
-        <p>
-          Ein wunderschönes, modernes Standalone-Rework des klassischen Steam Achievement Managers (SAM) mit hochwertiger Dark-Mode UI und zeitgemäßem Look & Feel.
-        </p>
-        <ul>
-          <li>🎨 <b>Modern Dark UI:</b> Sanfte Mikro-Animationen und übersichtliches Grid</li>
-          <li>📦 <b>100% Portable:</b> Kompiliert in zwei schlanke Executables ohne DLL-Chaos</li>
-          <li>⭐ <b>Favoriten & Tracker:</b> Spiele favorisieren und fertige Achievements filtern</li>
-        </ul>
-        <p>
-          <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-          <img src="https://img.shields.io/badge/.NET-Modern_Runtime-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-          <img src="https://img.shields.io/badge/Steam_API-Integrated-171a21?style=flat-square&logo=steam&logoColor=white" />
-        </p>
-      </div>
-    </td>
-  </tr>
+<a href="https://github.com/VaniMoe/Quick101">
+<img src="https://img.shields.io/badge/👑_MAIN_PROJECT-Quick101-52B788?style=flat-square" alt="Main Project" />
+</a>
 
-  <!-- ROW 2: PokeLike & Mocchi Bot -->
-  <tr>
-    <!-- PokeLike-Save-Editor-Overlay -->
-    <td width="50%" valign="top">
-      <div align="left">
-        <a href="https://github.com/VaniMoe/PokeLike-Save-Editor-Overlay">
-          <img src="https://img.shields.io/badge/✅_FERTIG-Memory_Elixir-2D6A4F?style=for-the-badge" alt="Fertig Badge" />
-        </a>
-        <h3><a href="https://github.com/VaniMoe/PokeLike-Save-Editor-Overlay">🛠️ PokéLike Save Editor Overlay</a></h3>
-        <p>
-          Mächtige Chrome Extension für das beliebte Browser-Roguelike <i>PokéLike</i>. Injektiert ein interaktives 6-Tab In-Game Overlay direkt in die Webapp.
-        </p>
-        <ul>
-          <li>🛡️ <b>Anti-Erkennungs-Bypass:</b> Erzwingt <code>poke_save_dirty = 0</code> in 500ms-Intervallen</li>
-          <li>📊 <b>6-Tab Interface:</b> Team-Stats, Währungen, Pokédex, Progress & Raw-JSON</li>
-          <li>⚡ <b>Live Injektion:</b> Komfortables Ein- & Ausblenden direkt im Browser-Tab</li>
-        </ul>
-        <p>
-          <img src="https://img.shields.io/badge/Manifest_V3-Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/DOM_Overlay-Injected-008080?style=flat-square" />
-        </p>
-      </div>
-    </td>
+### [Quick101](https://github.com/VaniMoe/Quick101)
+A fast, modern multi-account launcher for **Wizard101**. Designed to simplify team management and multi-instance launching with single-click execution.
 
-    <!-- Mocchi-Pokehelper-bot -->
-    <td width="50%" valign="top">
-      <div align="left">
-        <a href="https://github.com/VaniMoe/Mocchi-Pokehelper-bot">
-          <img src="https://img.shields.io/badge/✅_FERTIG-Vision_Familiar-2D6A4F?style=for-the-badge" alt="Fertig Badge" />
-        </a>
-        <h3><a href="https://github.com/VaniMoe/Mocchi-Pokehelper-bot">🤖 Mocchi Pokétwo Helper Bot</a></h3>
-        <p>
-          Intelligenter Discord-Assistent zur automatischen Identifikation wilder Pokémon-Spawns aus dem Pokétwo-Bot per KI-Bilderkennung inklusive Web-Dashboard.
-        </p>
-        <ul>
-          <li>🧠 <b>Google Gemini AI Vision:</b> Zuverlässige optische Analyse des Spawns</li>
-          <li>🌐 <b>Lokales Web-Dashboard:</b> Live-Verlauf, bequeme Konfiguration & Logs</li>
-          <li>🔊 <b>TTS Voice Alert:</b> Automatische Sprachausgabe bei seltenen Spawns</li>
-          <li>🌍 <b>Mehrsprachig:</b> Vollständige Dokumentation in DE, EN, ES, JA und FR</li>
-        </ul>
-        <p>
-          <img src="https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/Discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white" />
-          <img src="https://img.shields.io/badge/Gemini_Vision_AI-8E75C2?style=flat-square&logo=google-gemini&logoColor=white" />
-        </p>
-      </div>
-    </td>
-  </tr>
+- **1-Click Launching:** Start individual accounts or full 4-player teams effortlessly.
+- **Server Routing:** Instant switching between US, Europe, and Test Realm servers.
+- **Universal Client Support:** Built-in compatibility with both Standalone and Steam.
+- **Ergonomics:** Compact overlay mode and hotkey execution.
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/CustomTkinter-Dark_Theme-111111?style=flat-square" alt="CustomTkinter" />
+<img src="https://img.shields.io/badge/Threading-Optimized-2D6A4F?style=flat-square" alt="Threading" />
+</p>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="left">
+
+<a href="https://github.com/VaniMoe/Achivment-manager-Steam">
+<img src="https://img.shields.io/badge/✨_HOBBY-VaniAchievements-D4AF37?style=flat-square" alt="Hobby Project" />
+</a>
+
+### [VaniAchievements](https://github.com/VaniMoe/Achivment-manager-Steam)
+A sleek, standalone modern rewrite of the classic Steam Achievement Manager (SAM), engineered with a clean dark-mode interface and zero DLL clutter.
+
+- **100% Standalone & Portable:** Bundled cleanly into lightweight executables.
+- **Modern Dark UI:** Responsive layout with smooth micro-interactions.
+- **Favorites & Tracking:** Pin favorite games and separate completed achievements.
+- **Fast Scanning:** Instant library indexing via official Steam interfaces.
+
+<p>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-Modern_Runtime-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/Steamworks_API-171A21?style=flat-square&logo=steam&logoColor=white" alt="Steam API" />
+</p>
+
+</div>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<div align="left">
+
+<a href="https://github.com/VaniMoe/PokeLike-Save-Editor-Overlay">
+<img src="https://img.shields.io/badge/✅_COMPLETED-Chrome_Extension-2D6A4F?style=flat-square" alt="Completed" />
+</a>
+
+### [PokéLike Save Editor Overlay](https://github.com/VaniMoe/PokeLike-Save-Editor-Overlay)
+A feature-packed Chrome extension for the browser roguelike *PokéLike*, providing an interactive in-game overlay to inspect and modify local game states.
+
+- **Anti-Detection Bypass:** Background 500ms cycle resetting `poke_save_dirty` to prevent flags.
+- **6-Tab Suite:** Live controls for team statistics, currencies, Pokédex, and raw JSON.
+- **In-Game Overlay:** Seamless collapsible HUD directly injected into the active game tab.
+
+<p>
+<img src="https://img.shields.io/badge/Manifest_V3-Chrome-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Manifest V3" />
+<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/DOM_Injection-Native-2D6A4F?style=flat-square" alt="DOM Injection" />
+</p>
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="left">
+
+<a href="https://github.com/VaniMoe/Mocchi-Pokehelper-bot">
+<img src="https://img.shields.io/badge/✅_COMPLETED-Discord_Bot-2D6A4F?style=flat-square" alt="Completed" />
+</a>
+
+### [Mocchi Pokétwo Helper](https://github.com/VaniMoe/Mocchi-Pokehelper-bot)
+An autonomous Discord bot assistant for Pokétwo that recognizes wild Pokémon spawns using optical AI vision, complete with audio alerts and a local web dashboard.
+
+- **Gemini AI Vision:** High-accuracy image recognition identifying spawns on sight.
+- **Local Web Dashboard:** Browser UI for live catch history, bot logs, and configuration.
+- **TTS Voice Notifications:** Automatic real-time voice alerts when rare spawns appear.
+- **Multi-Language:** Comprehensive localization in EN, DE, ES, JA, and FR.
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Discord.js-v14-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js" />
+<img src="https://img.shields.io/badge/Gemini_AI_Vision-8E75C2?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini AI" />
+</p>
+
+</div>
+
+</td>
+</tr>
 </table>
 
 ---
 
-### 🍵 Kräutergarten & Alchemistische Werkzeuge ‧ *Tech Stack*
+### 🍃 Skills & Technologies
 
 <div align="center">
 
-  #### 🧪 Sprachen & Kerndisziplinen
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  </p>
-
-  #### 🍃 Frameworks, Overlays & Ökosystem
-  <p>
-    <img src="https://img.shields.io/badge/Chrome_Extensions_(MV3)-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-    <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-    <img src="https://img.shields.io/badge/Google_Gemini_AI-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Steamworks_API-171A21?style=for-the-badge&logo=steam&logoColor=white" />
-  </p>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Chrome_Extensions_(MV3)-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chrome Extensions" />
+<img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord.js" />
+<img src="https://img.shields.io/badge/Google_Gemini_AI-8E75C2?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini AI" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Steamworks_API-171A21?style=flat-square&logo=steam&logoColor=white" alt="Steamworks API" />
+</p>
 
 </div>
 
 ---
 
-### 📊 Kaiserliche Annalen ‧ *Imperial Archives & Stats*
+### 📊 Imperial Archives & Statistics
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-fast.vercel.app/api?username=VaniMoe&show_icons=true&bg_color=0D1B1E&title_color=52B788&text_color=D8F3DC&icon_color=D4AF37&border_color=2D6A4F&count_private=true" alt="VaniMoe's GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=VaniMoe&theme=dark&background=0D1B1E&border=2D6A4F&stroke=52B788&ring=D4AF37&fire=D4AF37&currStreakNum=D8F3DC&sideNums=D8F3DC&currStreakLabel=52B788&sideLabels=52B788&dates=74C69D" alt="VaniMoe's Streak Stats" />
-      </td>
-    </tr>
-  </table>
 
-  <br/>
+<table>
+<tr>
+<td align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=VaniMoe&show_icons=true&bg_color=0D1B1E&title_color=52B788&text_color=D8F3DC&icon_color=D4AF37&border_color=2D6A4F&count_private=true" alt="GitHub Stats" />
+</td>
+<td align="center">
+<img src="https://streak-stats.demolab.com?user=VaniMoe&theme=dark&background=0D1B1E&border=2D6A4F&stroke=52B788&ring=D4AF37&fire=D4AF37&currStreakNum=D8F3DC&sideNums=D8F3DC&currStreakLabel=52B788&sideLabels=52B788&dates=74C69D" alt="Streak Stats" />
+</td>
+</tr>
+</table>
 
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VaniMoe&layout=compact&bg_color=0D1B1E&title_color=52B788&text_color=D8F3DC&border_color=2D6A4F" alt="Top Languages" />
+<br/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=VaniMoe&layout=compact&bg_color=0D1B1E&title_color=52B788&text_color=D8F3DC&border_color=2D6A4F" alt="Top Languages" />
+
 </div>
 
 ---
 
-### 📬 Palast-Botschaft & Geheimkorrespondenz ‧ *Connect*
+### 📬 Connect & Correspondence
 
 <div align="center">
 
-  <p>Hast du eine Frage zu einem der Repositories oder möchtest dich über Web-Game Scripting austauschen?</p>
+<p>Feel free to reach out regarding web-game scripting, automation tools, or collaborative projects.</p>
 
-  <p>
-    <a href="https://github.com/VaniMoe">
-      <img src="https://img.shields.io/badge/GitHub-VaniMoe-2D6A4F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="https://steamcommunity.com">
-      <img src="https://img.shields.io/badge/Steam-Community-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-    </a>
-    <a href="https://discord.com">
-      <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-  </p>
+<p>
+<a href="https://github.com/VaniMoe">
+<img src="https://img.shields.io/badge/GitHub-VaniMoe-2D6A4F?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://steamcommunity.com">
+<img src="https://img.shields.io/badge/Steam-Profile-171A21?style=flat-square&logo=steam&logoColor=white" alt="Steam" />
+</a>
+<a href="https://discord.com">
+<img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+</a>
+</p>
 
-  <br/>
-  
-  <img src="https://media.tenor.com/v-IkxYmc-pIAAAAM/maomao-the-apothecary-diaries.gif" width="120" alt="Maomao Happy" />
+<br/>
 
-  <br/>
-  <sub><i>Crafted with curiosity, bitter roots and clean code 🌿</i></sub>
+<img src="https://media.tenor.com/v-IkxYmc-pIAAAAM/maomao-the-apothecary-diaries.gif" width="110" alt="Maomao Dancing" />
+
+<br/>
+<sub><i>Crafted with curiosity, analytical precision, and clean code 🌿</i></sub>
 
 </div>
